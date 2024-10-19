@@ -1,4 +1,4 @@
-# Aric's Blog
+# Aric's Homepage
 Page for occasional blog posts
 
 ## Blogs:
