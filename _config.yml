@@ -4,3 +4,6 @@ description: Where I blog about projects and STEM things
 
 aric_volman:
   name: Aric Volman
+
+minima:
+  skin: dark
