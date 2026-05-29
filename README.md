@@ -1,5 +1,5 @@
 # Homepage
-Page for occasional blog posts
+Page for occasional posts
 
-## Blogs:
-[Blog - Robot Tour #001](https://aric-volman.github.io/acetoxy001)
+## Posts:
+[End of Year 1](https://aric-volman.github.io/eoy1)
