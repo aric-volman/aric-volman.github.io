@@ -18,7 +18,7 @@ Disclaimer: These are my own, myopic views, and they are perhaps wrong. I am sim
 
 I would suggest reading this excellent explainer on the truth of personal blogging: [https://spinningvisions.com/2023/06/29/telling-the-truth-the-reality-of-having-a-personal-blog/](https://spinningvisions.com/2023/06/29/telling-the-truth-the-reality-of-having-a-personal-blog/)
 
-It would rather be convenient to believe in fate and only fate. After all, why not entertain yourself with happy thoughts, a bright future, and endless green pastures? In a greedy algorithm view of life, seeking the most obvious, comfortable or immediate solution is seen as the best thing to do. It comes from our basic state of being - the psychological need for closure (NfC) is a fundamental concept to keep in mind. Many students foolishly believe that today's trends and technologies will last the test of time (in their careers). Many place their personal belief in specific jobs and fields. Although it may be dangerous to say the quiet part out loud, I wanted to at least list the three types of undergrad I have indirectly encountered and usually agree to disagree with:
+It would rather be convenient to believe in fate and only fate. After all, why not entertain yourself with happy thoughts, a bright future, and endless green pastures? In a greedy algorithm view of life, seeking the most obvious, comfortable or immediate solution is seen as the best thing to do. It comes from our basic state of being - the psychological need for closure (NfC) is a fundamental concept to keep in mind. Many students foolishly believe that today's trends and technologies will last the test of time (in their careers). Many place their personal belief in specific jobs and fields. Although it may be dangerous to say the quiet part out loud, I wanted to at least list the three types of undergrad I have indirectly encountered:
 
 1. AI Hype
 2. Consulting
@@ -32,7 +32,7 @@ A common theme in at least the first two directions is a perceived lack of logic
 
 I do believe that the premed track is very rigorous and very good for those who can survive. But the same feeling applies. It is somewhat known that some students chose to optimize their GPA or go for the easier degree, for example, which sounds troublesome at best.
 
-In all cases, you cannot blame the student for this. The student is a cog in the machine, seeking certainty. Not everyone can afford the risk of thinking freely, which takes a lot of time and energy. Instead, we must acknowledge that current trends and hype always drive students towards the most elusive, stable path in their time. Bubbles, booms, and busts always happen and will continue to do so.
+**In all cases, you cannot blame the student for this.** The student is a cog in the machine, seeking certainty. Not everyone can afford the risk of thinking freely, which takes a lot of time and energy. Instead, we must acknowledge that current trends and hype always drive students towards the most elusive, stable path in their time. Bubbles, booms, and busts always happen and will continue to do so.
 
 I refuse to believe entirely in fate, chosing to face a sea of uncertainty instead. A general direction provides some promise, but does not paint the full picture.
 
