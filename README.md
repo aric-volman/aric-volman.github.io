@@ -5,7 +5,7 @@ Page for occasional posts
 
 
 ## Posts:
-[Tierlist 1 + Course Descriptions](https://aric-volman.github.io/tierlist1)
+[Course Tierlist 1](https://aric-volman.github.io/tierlist1)
 
 [Words I Go By](https://aric-volman.github.io/wordsIgoby)
 
