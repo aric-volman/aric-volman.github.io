@@ -1,7 +1,6 @@
 theme: jekyll-theme-minimal
 title: Aric's homepage
 description: Where I blog about projects and STEM things
-baseurl: https://aric-volman.github.io/
 
 aric_volman:
   name: Aric Volman
