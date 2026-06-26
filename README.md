@@ -1,6 +1,9 @@
 # Homepage
 Page for occasional posts
 
+![Screenshot](./assets/images/spongebob_unicycle.png "Screenshot")
+
+
 ## Posts:
 
 [Words I Go By](https://aric-volman.github.io/wordsIgoby)
